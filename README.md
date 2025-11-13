@@ -1,5 +1,5 @@
 <h1 align="center">  Hello, World! 
-</h1> I'm Nobre, Wendell Nobre.</h1>
+</h1> I'm Moura, Sebastião Moura.</h1>
 </h1>
 <p align="justify">
   <samp> I am a geophysicist and I graduated from the Federal University of Western Pará! It was in this institution that my life in the world of programming began. I got to know this wonderful and challenging environment through remote sensing. From the beginning, I learned about a programme based on C and C+: MatLab. From there I learned how to structure code and how it works. After this first contact, I was introduced to FORTRAN, and from then on I was attracted to the power of programming! Today, I solve my geophysics challenges in Python. In this language I find numerous ways to develop my calculations, with the help of people who share their knowledge in their numerous libraries. I list some of them below.
